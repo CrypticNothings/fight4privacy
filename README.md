@@ -1,13 +1,12 @@
+<pre> 
                                               ##   ##                                                                
                                               ##   ##                                                                
  #######     #     #######  #     #  #######  ##   ##  #######  #######     #     #     #  #######  #######  #     # 
  #           #     #        #     #     #     # #####  #     #  #     #     #     #     #  #     #  #        #     # 
  ####        #     #  ####  #######     #          ##  #######  #######     #      #   #   #######  #        ####### 
  #           #     #     #  #     #     #          ##  #        #    #      #       # #    #     #  #              # 
- #           #     #######  #     #     #          ##  #        #    ##     #        #     #     #  #######  ####### 
-                                                                                                                     
-
-
+ #           #     #######  #     #     #          ##  #        #    ##     #        #     #     #  #######  #######
+</pre>
 #fight4privacy
 
 Education is the key for protection. 
@@ -37,7 +36,7 @@ I don't want this site to have a sign up/log-in or anything from the visitor. Do
 
 
 
-
+<pre>
                                                                                                  
       _/_/_/      _/                                    _/       _/                              
    _/          _/_/_/_/       _/_/       _/  _/_/      _/                _/_/_/         _/_/_/   
@@ -46,7 +45,7 @@ I don't want this site to have a sign up/log-in or anything from the visitor. Do
 _/_/_/          _/_/       _/_/_/     _/            _/       _/       _/    _/       _/_/_/      
                                                                                         _/       
                                                                                    _/_/          
-
+</pre>
 
                                                                                            
                                                                                            
