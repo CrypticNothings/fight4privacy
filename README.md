@@ -1,4 +1,14 @@
-# fight4privacy
+                                              ##   ##                                                                
+                                              ##   ##                                                                
+ #######     #     #######  #     #  #######  ##   ##  #######  #######     #     #     #  #######  #######  #     # 
+ #           #     #        #     #     #     # #####  #     #  #     #     #     #     #  #     #  #        #     # 
+ ####        #     #  ####  #######     #          ##  #######  #######     #      #   #   #######  #        ####### 
+ #           #     #     #  #     #     #          ##  #        #    #      #       # #    #     #  #              # 
+ #           #     #######  #     #     #          ##  #        #    ##     #        #     #     #  #######  ####### 
+                                                                                                                     
+
+
+#fight4privacy
 
 Education is the key for protection. 
 
@@ -21,3 +31,26 @@ And we'll settle for nothing later"
 It's too easy to not care until it's too late to do anything and then say all the things "you could of done". Let's not be that way for this is far too important for our futures. 
 
 I don't want this site to have a sign up/log-in or anything from the visitor. Don't build a site about privacy and build a contacts list. This is important. No "click to accept" pop ups. This is for educational purposes only and to arm the people with the most important weapon in this hidden battle: knowledge. 
+
+
+
+
+
+
+
+                                                                                                 
+      _/_/_/      _/                                    _/       _/                              
+   _/          _/_/_/_/       _/_/       _/  _/_/      _/                _/_/_/         _/_/_/   
+    _/_/        _/         _/_/_/_/     _/_/          _/       _/       _/    _/     _/    _/    
+       _/      _/         _/           _/            _/       _/       _/    _/     _/    _/     
+_/_/_/          _/_/       _/_/_/     _/            _/       _/       _/    _/       _/_/_/      
+                                                                                        _/       
+                                                                                   _/_/          
+
+
+                                                                                           
+                                                                                           
+
+
+                                                            
+      
