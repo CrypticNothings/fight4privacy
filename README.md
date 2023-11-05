@@ -9,28 +9,19 @@
 </pre>
 #fight4privacy
 
-Education is the key for protection. 
+I'm embarking on an exciting GitHub project aimed at creating a user-friendly, informative, and highly accessible website centered around online security and safety. Our primary mission is to offer a comprehensive resource that is not only easy to navigate but also engaging and enlightening. We invite you to join us in this collaborative endeavor, which promises to be a vital platform for educating and safeguarding individuals from online threats.
 
-Idea of this is to be able to provide a link to this to educate people at risk. I would like to provide detailed information about the various types of scams as well as the changing laws affecting the internet. Each topic will be linked to it's own page to keep the main page clear and to allow as much information and examples as possible. At the same time I would like this is to be easy to read and accessible because sadly our elderly are major targets. So if they or someone were to share this page I want them to easily be able to navigate it and arm themselves with knowledge to prevent getting involved in a scam or to find out if they're already in one. Also, we should have appropriate links to report serious issues.
+Our website will serve as a valuable repository of information on various scams, each meticulously detailed with in-depth explanations and real-life examples. By providing this wealth of knowledge, we aim to empower individuals to recognize and steer clear of potential pitfalls or, for those already ensnared, to find a path to safety.
 
-One stop site to self-educate on all forms of attacks on privacy including phishing, scams, fraud, statistics, laws and more.
+One of our core objectives is to make this platform particularly accessible to the elderly, a demographic often targeted by scams. We want them to navigate our site with ease and equip themselves with knowledge to protect against online threats. In doing so, we hope to bridge the digital generation gap and ensure that everyone, regardless of age, can safely navigate the online world.
 
+But our website won't stop at scam awareness; it will also house a repository of international laws, rules, and acts that have shaped the internet since its inception. Our goal is to create a comprehensive archive of the regulations that continue to influence online behavior, providing valuable insights into the evolving digital landscape.
 
-Once we lose...we lose it all forever. 
-We lose the ability to fight back.
-Let's not give up.
+Furthermore, we will keep a watchful eye on current news and developments in the realm of online security. Our website will serve as a dynamic hub, constantly updated to reflect the latest trends and threats. This ensures that visitors can stay informed and vigilant in an ever-changing digital environment.
 
-Here's some good song lyrics:
-"If we don't take the action now
-We settle for nothing later
-Settle for nothing now
-And we'll settle for nothing later"
--Rage Against the Machine
+Ultimately, our vision for this project is to build a one-stop website that effortlessly blends readability, learnability, and navigability. We believe in the strength of community involvement, as online security is a shared responsibility. Together, we can arm ourselves with the knowledge needed to protect both our own digital lives and the future of internet usage.
 
-It's too easy to not care until it's too late to do anything and then say all the things "you could of done". Let's not be that way for this is far too important for our futures. 
-
-I don't want this site to have a sign up/log-in or anything from the visitor. Don't build a site about privacy and build a contacts list. This is important. No "click to accept" pop ups. This is for educational purposes only and to arm the people with the most important weapon in this hidden battle: knowledge. 
-
+Let's work together to safeguard our online rights, recognizing that once lost, they are challenging to regain. Join us on this journey to create a safer and more informed online world. Visit our website and be a part of this crucial initiative.
 
 
 
