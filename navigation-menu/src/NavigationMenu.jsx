@@ -8,7 +8,7 @@ export default function Navigation(){
     }
     return (
          <>
-         <header className="bg-gray-100 p-6 relative font-mono border-b border-gray-400">
+         <header className="bg-gray-100 p-6 relative font-mono border-b  border-gray-400">
          <nav className="max-w-5xl mx-auto flex items-center justify-between">
          <div className="">
          <a href="." className="text-4xl font-bold capitalize text-gray-950 transition hover:ease-in-out hover:delay-200 hover:duration-300 hover:text-teal-500">fight4Privacy</a>
@@ -27,7 +27,7 @@ export default function Navigation(){
          </div>
          </nav>
          </header>
-         <section className={`absolute top-70 bg-black right-0 left-0 min-h-screen bg-opacity ${isMenuOpen?'block':'hidden'}`}>
+         <section className={`absolute top-70 z-10 bg-black right-0 left-0 origin-top animate-open-menu min-h-screen bg-opacity ${isMenuOpen?'block':'hidden'}`}>
          <div className="max-w-sm mx-auto rounded-xl bg-white h-96 flex flex-col items-center my-10">
        <div className="space-y-6  my-8 flex flex-col">
        <a href="#" className="text-xl font-semibold text-teal-700 ">Home</a>
