@@ -1,7 +1,5 @@
 import { useState } from 'react';
-import menuBtn from './assets/icon-menu.svg'
-import closeBtn from './assets/icon-menu-close.svg'
-export default function Navigation(){
+export default function Navigation({menu}){
     const[isMenuOpen, setIsMenuOpen]=useState(false)
     const toggleMenu=()=>{
         setIsMenuOpen(!isMenuOpen);
@@ -14,7 +12,7 @@ export default function Navigation(){
          <a href="." className="text-4xl font-bold capitalize text-gray-950 transition hover:ease-in-out hover:delay-200 hover:duration-300 hover:text-teal-500">fight4Privacy</a>
          </div>
          <button className="md:hidden block" onClick={toggleMenu}>
-            {isMenuOpen?(<img src={closeBtn} alt="" />):(<img src={menuBtn} alt="" />)}
+            {isMenuOpen?(<img src={menu.closeBtn} alt="" />):(<img src={menu.menuBtn} alt="" />)}
             
          </button>
          <div className="space-x-6 md:block hidden">
@@ -39,6 +37,7 @@ export default function Navigation(){
        </div>
          </div>
          </section>
+
          </>
     );
 

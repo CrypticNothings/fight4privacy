@@ -1,10 +1,5 @@
-import facebook from './assets/icon-facebook.svg'
-import twitter from './assets/icon-twitter.svg'
-import instagram from './assets/icon-instagram.svg'
-import pinterest from './assets/icon-pinterest.svg'
-import youtube from './assets/icon-youtube.svg'
 
-export default function Footer(){
+export default function Footer({icon}){
    return(
     <>
     <footer className="bg-gray-800 text-white p-6">
@@ -32,11 +27,11 @@ export default function Footer(){
                             <p className="text-lg">USA, California</p>
                             <p className="text-lg mb-4">P.O Box 1234-254 Main street</p>
                             <div className="space-x-4 flex items-center">
-                                <a href="" className=""><img src={facebook} alt="" /></a>
-                                <a href="" className=""><img src={twitter} alt="" /></a>
-                                <a href="" className=""><img src={instagram} alt="" /></a>
-                                <a href="" className=""><img src={pinterest} alt="" /></a>
-                                <a href="" className=""><img src={youtube} alt="" /></a>
+                                <a href="" className=""><img src={icon.facebook} alt="" /></a>
+                                <a href="" className=""><img src={icon.twitter} alt="" /></a>
+                                <a href="" className=""><img src={icon.instagram} alt="" /></a>
+                                <a href="" className=""><img src={icon.pinterest} alt="" /></a>
+                                <a href="" className=""><img src={icon.youtube} alt="" /></a>
                             </div>
                         </div>
                     </div>
